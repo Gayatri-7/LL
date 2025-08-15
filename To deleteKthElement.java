@@ -1,3 +1,4 @@
+//no no this is the change i wanted to MAke
 class Node{
     int data;
     Node next;
